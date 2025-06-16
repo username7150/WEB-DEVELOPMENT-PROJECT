@@ -1,2 +1,7 @@
 # WEB-DEVELOPMENT-PROJECT
- This is a Full Stack project made by me own  , using  MYSQL ( as Database) , Node.js , Express.js , EJS (Embedded JavaScript) from BACKEND and  HTML , CSS   from FRONTEND
+ This is My first Full Stack project , 
+ Using  MYSQL ( as Database) , NODE.JS , EXPRESS.JS , EJS (Embedded JavaScript) from BACKEND,
+ HTML , CSS ( BOOTSTARP + tailwind )  from   FRONTEND
+
+ In this project any User can give there FEEDBACK for anything they used 
+ * Like each Student can give  Feebacks  to the Teacher in their School or college so that good or Bad teachers can be identified according to the Students.
